@@ -37,7 +37,6 @@ Other Style Guides
   1. [ECMAScript 6+ (ES 2015+) Styles](#ecmascript-6-es-2015-styles)
   1. [Testing](#testing)
   1. [Performance](#performance)
-  1. [Resources](#resources)
   1. [The JavaScript Style Guide Guide](#the-javascript-style-guide-guide)
   1. [License](#license)
 
